@@ -1,0 +1,51 @@
+{
+  "upcoming": {
+    "id": "br-111-thiruvonam-bumper-2026",
+    "code": "BR-111",
+    "name": {
+      "en": "Thiruvonam Bumper 2026",
+      "ml": "തിരുവോണം ബമ്പർ 2026",
+      "ta": "திருவோணம் பம்பர் 2026",
+      "hi": "तिरुवोणम बंपर 2026"
+    },
+    "drawDate": "2026-09-26",
+    "ticketPrice": 500,
+    "prizes": [
+      {
+        "tier": "1st",
+        "amount": 300000000,
+        "count": 1
+      },
+      {
+        "tier": "consolation",
+        "amount": 500000,
+        "count": 9
+      },
+      {
+        "tier": "2nd",
+        "amount": 10000000,
+        "count": 20
+      },
+      {
+        "tier": "3rd",
+        "amount": 2500000,
+        "count": 20
+      },
+      {
+        "tier": "4th",
+        "amount": 500000,
+        "count": 10
+      },
+      {
+        "tier": "5th",
+        "amount": 200000,
+        "count": 10
+      },
+      {
+        "tier": "6th",
+        "amount": 5000,
+        "count": 900
+      }
+    ]
+  }
+}
