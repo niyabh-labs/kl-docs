@@ -1,0 +1,46 @@
+{
+  "upcoming": {
+    "id": "br-112-pooja-bumper-2026",
+    "code": "BR-112",
+    "name": {
+      "en": "Pooja Bumper 2026",
+      "ml": "പൂജാ ബമ്പർ 2026",
+      "ta": "பூஜா பம்பர் 2026",
+      "hi": "पूजा बंपर 2026"
+    },
+    "drawDate": "2026-11-28",
+    "ticketPrice": 300,
+    "prizes": [
+      {
+        "tier": "1st",
+        "amount": 120000000,
+        "count": 1
+      },
+      {
+        "tier": "consolation",
+        "amount": 100000,
+        "count": 4
+      },
+      {
+        "tier": "2nd",
+        "amount": 5000000,
+        "count": 10
+      },
+      {
+        "tier": "3rd",
+        "amount": 500000,
+        "count": 10
+      },
+      {
+        "tier": "4th",
+        "amount": 300000,
+        "count": 0
+      },
+      {
+        "tier": "5th",
+        "amount": 200000,
+        "count": 0
+      }
+    ]
+  }
+}
